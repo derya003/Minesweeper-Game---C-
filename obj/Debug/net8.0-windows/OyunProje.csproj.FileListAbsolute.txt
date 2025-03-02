@@ -1,0 +1,54 @@
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.exe
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.deps.json
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.runtimeconfig.json
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.dll
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.pdb
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form1.resources
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.csproj.GenerateResource.cache
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.AssemblyInfoInputs.cache
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.AssemblyInfo.cs
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.csproj.CoreCompileInputs.cache
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.dll
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\refint\OyunProje.dll
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.pdb
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.genruntimeconfig.cache
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\ref\OyunProje.dll
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form2.resources
+C:\Users\derya\Desktop\mayın tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form3.resources
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.exe
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.deps.json
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.runtimeconfig.json
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.dll
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.pdb
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form1.resources
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form2.resources
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form3.resources
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.csproj.GenerateResource.cache
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.AssemblyInfoInputs.cache
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.AssemblyInfo.cs
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.csproj.CoreCompileInputs.cache
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.dll
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\refint\OyunProje.dll
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.pdb
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.genruntimeconfig.cache
+C:\Users\derya\Desktop\220229003_DeryaDurğun\OyunProje\OyunProje\obj\Debug\net8.0-windows\ref\OyunProje.dll
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.exe
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.deps.json
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.runtimeconfig.json
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.dll
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\bin\Debug\net8.0-windows\OyunProje.pdb
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form1.resources
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form2.resources
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.Form3.resources
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.csproj.GenerateResource.cache
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.AssemblyInfoInputs.cache
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.AssemblyInfo.cs
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.csproj.CoreCompileInputs.cache
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.dll
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\refint\OyunProje.dll
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.pdb
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\OyunProje.genruntimeconfig.cache
+C:\Users\derya\Desktop\2-1\Mayın Tarlası\OyunProje\OyunProje\obj\Debug\net8.0-windows\ref\OyunProje.dll
